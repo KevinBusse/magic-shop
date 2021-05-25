@@ -1,0 +1,46 @@
+[
+  {
+    "tags": [
+      "Heilung",
+      "Verbrauchsmaterial"
+    ],
+    "name": "Trank der Heilung",
+    "price": "50 Gold",
+    "description": "Sie erhalten 2W4 + 2 Trefferpunkte zurück, wenn Sie diesen Trank trinken.\n\nDie rote Flüssigkeit des Tranks schimmert, wenn er bewegt wird."
+  },
+  {
+    "tags": [
+      "Heilung",
+      "Verbrauchsmaterial"
+    ],
+    "name": "Trank der großen Heilung",
+    "price": "150 Gold",
+    "description": "Sie erhalten 4W4 + 4 Trefferpunkte zurück, wenn Sie diesen Trank trinken.\n\nDie rote Flüssigkeit des Tranks schimmert, wenn er bewegt wird."
+  },
+  {
+    "tags": [
+      "Heilung",
+      "Verbrauchsmaterial"
+    ],
+    "name": "Trank der überlegenen\nHeilung",
+    "price": "450 Gold",
+    "description": "Sie erhalten 8W4 + 8 Trefferpunkte zurück, wenn Sie diesen Trank trinken.\n\nDie rote Flüssigkeit des Tranks schimmert, wenn er bewegt wird."
+  },
+  {
+    "tags": [
+      "Heilung",
+      "Verbrauchsmaterial"
+    ],
+    "name": "Trank der höchsten Heilung",
+    "price": "1350 Gold",
+    "description": "Sie erhalten 10W4 + 20 Trefferpunkte zurück, wenn Sie diesen Trank trinken.\n\nDie rote Flüssigkeit des Tranks schimmert, wenn er bewegt wird."
+  },
+  {
+    "tags": [
+      "Zauberstab"
+    ],
+    "name": "Test-Zauberstab",
+    "price": "gratis",
+    "description": "more to added be"
+  }
+]
