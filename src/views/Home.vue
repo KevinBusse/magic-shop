@@ -28,8 +28,8 @@ export default {
 }
 
 .link {
-  height: 114px;
-  width: 114px;
+  height: 144px;
+  width: 144px;
   margin: 12px;
   text-align: center;
   flex-shrink: 0;
@@ -50,6 +50,10 @@ a.link, a.link:hover, a.link:visited, a.link:focus {
 
 .icon {
   font-size: 64px;
-  margin: 3px 0;
+  margin: 12px 0;
+}
+
+.text {
+  font-size: 16px;
 }
 </style>

@@ -1,0 +1,67 @@
+[
+  {
+    "icon": "⚔️",
+    "label": "Nahkampf",
+    "route": "melee"
+  },
+  {
+    "icon": "🏹",
+    "label": "Fernkampf",
+    "route": "ranged"
+  },
+  {
+    "icon": "🪄",
+    "label": "Zauberstäbe",
+    "tag": "Zauberstab",
+    "route": "wands"
+  },
+  {
+    "icon": "🛡️️",
+    "label": "Rüstung",
+    "route": "armor"
+  },
+  {
+    "icon": "💍️️",
+    "label": "Schmuck",
+    "route": "jewelery"
+  },
+  {
+    "icon": "❤️‍🩹",
+    "label": "Heilung",
+    "route": "healing"
+  },
+  {
+    "icon": "\uD83E\uDDEA",
+    "label": "Tränke",
+    "tag": "Trank",
+    "route": "potions"
+  },
+  {
+    "icon": "\uD83D\uDCDC",
+    "label": "Schriftrollen",
+    "tag": "Schriftrolle",
+    "route": "scrolls"
+  },
+  {
+    "icon": "✨️",
+    "label": "Beschwörung",
+    "route": "summoning"
+  },
+  {
+    "icon": "\uD83D\uDCAA",
+    "label": "Verstärkungen",
+    "tag": "Verstärkung",
+    "route": "buffs"
+  },
+  {
+    "icon": "\uD83E\uDE79",
+    "label": "Verbrauchsmaterial",
+    "route": "consumables"
+  },
+  {
+    "icon": "❓️",
+    "label": "Wundersames",
+    "tag": "Wundersam",
+    "route": "wondrous"
+  }
+]

@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import ItemList from '../views/ItemList'
 
 Vue.use(VueRouter)
 
@@ -8,17 +9,14 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home
+    component: Home,
+    props: true,
   },
   {
-    path: '/healing',
-    name: 'Healing',
-    component: () => import(/* webpackChunkName: "healing" */ '../views/Healing')
-  },
-  {
-    path: '/wands',
-    name: 'Wands',
-    component: () => import(/* webpackChunkName: "magic-wands" */ '../views/Wands')
+    path: '/:tag',
+    name: 'ItemList',
+    component: ItemList,
+    props: true,
   },
 ]
 
