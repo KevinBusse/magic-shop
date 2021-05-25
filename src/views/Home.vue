@@ -8,13 +8,13 @@
 </template>
 
 <script>
-import { tags } from '../data'
+import data from '../data'
 
 export default {
   name: 'Home',
   data() {
     return {
-      tags
+      tags: data.tags
     }
   }
 }
