@@ -9,22 +9,13 @@
     "description": "Eine Zauberschriftrolle trägt die Wörter eines einzelnen Zaubers, geschrieben in einer mystischen Chiffre. Wenn der Zauber auf der Zauberliste deiner Klasse steht, kannst du die Schriftrolle lesen und ihren Zauber wirken, ohne materielle Komponenten bereitzustellen. Ansonsten ist die Schriftrolle unverständlich. Das Wirken des Zaubers durch Lesen der Schriftrolle erfordert die normale Zauberzeit des Zaubers. Sobald der Zauber gewirkt ist, verblassen die Wörter auf der Schriftrolle und sie zerfällt zu Staub. Wenn das Zaubern unterbrochen wird, geht die Schriftrolle nicht verloren.\n\nWenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber eine höhere Stufe aufweist, als du normalerweise wirken kannst, musst du  mithilfe deiner Zauberwirkungsfähigkeit eine DC 10 Fähigkeitsprüfung durchführen, um festzustellen, ob du ihn erfolgreich wirkst. Bei einer fehlgeschlagenen Prüfung verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.\n\nRettungswurf DC: 13\nAngriffsbonus: +5"
   },
   {
-    "wip": true,
     "tags": [
-      "Nahkampf",
       "Fernkampf",
-      "Zauberstab",
-      "Rüstung",
-      "Schmuck",
-      "Heilung",
-      "Trank",
-      "Verstärkung",
-      "Verbrauchsmaterial",
-      "Wundersam"
+      "Verbrauchsmaterial"
     ],
     "name": "Munition +1",
     "price": "25 Gold",
-    "description": ""
+    "description": "Du hast einen Bonus von +1 auf Angriffs- und Schadenswürfe mit dieser magischen Munition. Sobald es ein Ziel trifft, ist die Munition nicht mehr magisch.\n\nVarianten:\n* Pfeile\n* Blasrohrpfeile\n* Armbrustbolzen\n* Schleuderkugeln"
   },
   {
     "tags": [
@@ -82,22 +73,13 @@
     "description": ""
   },
   {
-    "wip": true,
     "tags": [
-      "Nahkampf",
       "Fernkampf",
-      "Zauberstab",
-      "Rüstung",
-      "Schmuck",
-      "Heilung",
-      "Trank",
-      "Verstärkung",
-      "Verbrauchsmaterial",
-      "Wundersam"
+      "Verbrauchsmaterial"
     ],
     "name": "Munition +2",
     "price": "100 Gold",
-    "description": ""
+    "description": "Du hast einen Bonus von +2 auf Angriffs- und Schadenswürfe mit dieser magischen Munition. Sobald sie ein Ziel trifft, ist die Munition nicht mehr magisch.\n\nVarianten:\n* Pfeile\n* Blasrohrpfeile\n* Armbrustbolzen\n* Schleuderkugeln"
   },
   {
     "wip": true,
@@ -524,22 +506,13 @@
     "description": "Eine Zauberschriftrolle trägt die Wörter eines einzelnen Zaubers, geschrieben in einer mystischen Chiffre. Wenn der Zauber auf der Zauberliste deiner Klasse steht, kannst du die Schriftrolle lesen und ihren Zauber wirken, ohne materielle Komponenten bereitzustellen. Ansonsten ist die Schriftrolle unverständlich. Das Wirken des Zaubers durch Lesen der Schriftrolle erfordert die normale Zauberzeit des Zaubers. Sobald der Zauber gewirkt ist, verblassen die Wörter auf der Schriftrolle und sie zerfällt zu Staub. Wenn das Zaubern unterbrochen wird, geht die Schriftrolle nicht verloren.\n\nWenn der Zauberspruch auf der Zauberliste deiner Klasse steht, aber eine höhere Stufe aufweist, als du normalerweise wirken kannst, musst du  mithilfe deiner Zauberwirkungsfähigkeit eine DC 14 Fähigkeitsprüfung durchführen, um festzustellen, ob du ihn erfolgreich wirkst. Bei einer fehlgeschlagenen Prüfung verschwindet der Zauber ohne weiteren Effekt von der Schriftrolle.\n\nRettungswurf DC: 15\nAngriffsbonus: +7"
   },
   {
-    "wip": true,
     "tags": [
-      "Nahkampf",
       "Fernkampf",
-      "Zauberstab",
-      "Rüstung",
-      "Schmuck",
-      "Heilung",
-      "Trank",
-      "Verstärkung",
-      "Verbrauchsmaterial",
-      "Wundersam"
+      "Verbrauchsmaterial"
     ],
     "name": "Munition +3",
     "price": "400 Gold",
-    "description": ""
+    "description": "Du hast einen Bonus von +3 auf Angriffs- und Schadenswürfe mit dieser magischen Munition. Sobald sie ein Ziel trifft, ist die Munition nicht mehr magisch.\n\nVarianten:\n* Pfeile\n* Blasrohrpfeile\n* Armbrustbolzen\n* Schleuderkugeln"
   },
   {
     "wip": true,
